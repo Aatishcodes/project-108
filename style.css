@@ -1,0 +1,45 @@
+#title {
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Nerko One', cursive;
+}
+
+#note {
+    color: grey;
+
+}
+
+body {
+    background-color: pink;
+}
+
+#titlediv {
+    background-color: white;
+    
+}
+
+img {
+    width: 400px;
+}
+
+.items {
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+}
+
+#startbutton {
+    color: blue;
+    background-color: orange;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+}
+
+#creditdiv {
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 1.5;
+    text-shadow: 5px 5px 5px grey;
+}
